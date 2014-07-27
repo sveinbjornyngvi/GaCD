@@ -10,3 +10,5 @@ How run_analysis.R works:
 * Transforms data (see codebook.md for transformations).
 * Creates secondary tidy dataset.
 * Creates codebook.txt with info about the tidy dataset.
+
+Comments in run_analysis.r clarify each step taken.
