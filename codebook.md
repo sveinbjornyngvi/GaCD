@@ -31,3 +31,5 @@ List of variables in tidy dataset:
 * average - Variable average for each activity and each subject.
 
 Structure and summary for tidydataset is in codebook.txt.
+
+Detailed comments in run_analysis.R.
